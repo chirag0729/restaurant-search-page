@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    height: 60vh;
+}
+
 /* navbar */
 nav form button.btn {
     color: #fff;
@@ -21,6 +25,7 @@ button.btn:hover {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
+
     
 }
 
